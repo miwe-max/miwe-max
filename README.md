@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm <Maxwell Iwe >, a Software Development student at Brigham Young University-Idaho interested in <Software Development/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm <Maxwell Iwe @miwe-max >, a Software Development student at Brigham Young University-Idaho interested in <Software Development/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
 
 ## About Me
 
