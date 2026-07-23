@@ -1,8 +1,11 @@
-# <Your Name Here>
+# <Maxwell Iwe>
 
 Hello, GitHub! 👋
 
-I'm Maxwell Iwe ( @miwe-max ) , a Software Development student at Brigham Young University-Idaho interested in <Software Development/Interests such as: computer science, data science, web development, machine learning, versatile in power generation>. Welcome to my GitHub profile!
+Hi, I’m **Maxwell Iwe** (@miwe-max), a Software Development student at **Brigham Young University–Idaho** passionate about **computer science, data science, web development, machine learning, and technology-driven solutions for real-world industries such as power generation**.
+
+Welcome to my GitHub! 🚀 I use this space to showcase my projects, share my learning journey, and build solutions through code.
+
 
 ## About Me
 
@@ -34,7 +37,7 @@ I am also passioante about Operation and Maintenance of Power Plants.
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/maxwell-iwe-794478423) profile
+- Here is my [Gmail](thecodymax@gmail.com) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
